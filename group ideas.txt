@@ -1,0 +1,12 @@
+﻿Hospital database
+* Patient name
+* Date of birth
+* Age
+* Gender
+* Hospital number
+* Insurance provider
+* Primary physician 
+* Date of admission to hospital
+* Condition
+* Allergies
+* Blood type
