@@ -1,6 +1,6 @@
 jobs 
--UI
--Data generation 
--data retreival (opening files)
--prossesing data when oppened (maybe merge this with framework bc they'll know how it works) / framework
--data saving 
+-UI: stephanie
+-Data generation: isabella
+-data retreival (opening files): destiny
+-prossesing data when oppened (maybe merge this with framework bc they'll know how it works) / framework: henry
+-data saving: peter
