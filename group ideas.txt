@@ -2,7 +2,7 @@
 * Patient name
 * Date of birth
 * Age
-* Gender
+* Sex
 * Hospital number
 * Insurance provider
 * Primary physician 
