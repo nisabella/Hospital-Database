@@ -1,12 +1,12 @@
 ﻿Hospital database
-* Patient name
-* Date of birth
-* Age
-* Sex
-* Hospital number
-* Insurance provider
-* Primary physician 
-* Date of admission to hospital
-* Condition
-* Allergies
-* Blood type
+* Patient name                      (name class)
+* Date of birth                     (date class)
+* Age                               (extrapolated)
+* Sex                               (string)
+* Hospital number                   (string)
+* Insurance provider                (string)
+* Primary physician                 (string)
+* Date of admission to hospital     (date class within visit class)
+* Condition                         (array list of strings)
+* Allergies                         (array list of strings)
+* Blood type                        (String)
